@@ -2006,6 +2006,9 @@ function Squash-Commits {
 
 # Other Resources
 
+##Usefull links
+* https://www.youtube.com/watch?v=NhlzMcSyQek
+
 ## Books
 
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - A book by Michael Hartl covering Git from basics
